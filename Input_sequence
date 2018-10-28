@@ -1,0 +1,4 @@
+sequence=input('Enter your sequence:')
+print ('your sequence is:' , sequence)
+s_1=sequence[1]
+print(s_1)
